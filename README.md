@@ -1,1 +1,0 @@
-# produktverwaltung-app-template
